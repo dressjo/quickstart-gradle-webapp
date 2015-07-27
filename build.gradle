@@ -1,9 +1,6 @@
 apply plugin: 'war'
 apply plugin: 'jetty'
 
-
-println fuckFace
-
 repositories {
     mavenCentral()
 }
